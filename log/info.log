@@ -1,0 +1,208 @@
+2019-08-29 11:56:34,059 - framework - INFO - http://www.baidu.com
+2019-08-29 13:18:58,509 - framework - INFO - http://www.baidu.com
+2019-08-29 13:19:42,973 - framework - INFO - http://www.baidu.com
+2019-08-29 13:22:32,807 - framework - INFO - http://www.baidu.com
+2019-08-29 15:17:26,659 - framework - INFO - http://www.baidu.com
+2019-08-29 15:17:26,661 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 15:17:28,180 - framework - ERROR - 用户名密码验证失败！(535, b'Error: authentication failed, system busy')
+Traceback (most recent call last):
+  File "C:\Users\梁浩\PycharmProjects\Test_framework\utils\mail.py", line 68, in send
+    smtp_server.login(self.sender, self.password)  # 登录
+  File "C:\Users\梁浩\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\梁浩\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\梁浩\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed, system busy')
+2019-08-29 15:17:28,224 - framework - INFO - 发送邮件"百度搜索测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 15:18:22,495 - framework - INFO - http://www.baidu.com
+2019-08-29 15:18:22,497 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 15:18:24,330 - framework - ERROR - 用户名密码验证失败！(535, b'Error: authentication failed, system busy')
+Traceback (most recent call last):
+  File "C:\Users\梁浩\PycharmProjects\Test_framework\utils\mail.py", line 68, in send
+    smtp_server.login(self.sender, self.password)  # 登录
+  File "C:\Users\梁浩\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\梁浩\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\梁浩\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed, system busy')
+2019-08-29 15:18:24,379 - framework - INFO - 发送邮件"百度搜索测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 15:18:31,636 - framework - INFO - http://www.baidu.com
+2019-08-29 15:18:31,638 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 15:18:33,107 - framework - ERROR - 用户名密码验证失败！(535, b'Error: authentication failed, system busy')
+Traceback (most recent call last):
+  File "C:\Users\梁浩\PycharmProjects\Test_framework\utils\mail.py", line 68, in send
+    smtp_server.login(self.sender, self.password)  # 登录
+  File "C:\Users\梁浩\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\梁浩\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\梁浩\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed, system busy')
+2019-08-29 15:18:33,152 - framework - INFO - 发送邮件"百度搜索测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 15:19:17,858 - framework - INFO - http://www.baidu.com
+2019-08-29 15:19:17,860 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 15:19:19,723 - framework - ERROR - 用户名密码验证失败！(535, b'Error: authentication failed, system busy')
+Traceback (most recent call last):
+  File "C:\Users\梁浩\PycharmProjects\Test_framework\utils\mail.py", line 68, in send
+    smtp_server.login(self.sender, self.password)  # 登录
+  File "C:\Users\梁浩\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 730, in login
+    raise last_exception
+  File "C:\Users\梁浩\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "C:\Users\梁浩\AppData\Local\Programs\Python\Python37\lib\smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Error: authentication failed, system busy')
+2019-08-29 15:19:19,771 - framework - INFO - 发送邮件"百度搜索测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 15:21:31,555 - framework - INFO - http://www.baidu.com
+2019-08-29 15:21:31,557 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 15:21:34,465 - framework - INFO - 发送邮件"百度搜索测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 15:32:53,612 - framework - INFO - http://www.baidu.com
+2019-08-29 15:34:06,103 - framework - INFO - http://www.baidu.com
+2019-08-29 15:35:12,864 - framework - INFO - http://www.baidu.com
+2019-08-29 15:35:12,866 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 15:35:12,866 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 15:35:14,222 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com；wuyanjun@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 15:35:29,932 - framework - INFO - http://www.baidu.com
+2019-08-29 15:35:29,934 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 15:35:29,935 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 15:35:32,803 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com;wuyanjun@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 15:37:18,101 - framework - INFO - http://www.baidu.com
+2019-08-29 15:37:18,103 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 15:37:18,104 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 15:37:21,012 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 15:39:32,851 - framework - INFO - http://www.baidu.com
+2019-08-29 15:39:32,853 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 15:42:15,151 - framework - INFO - http://www.baidu.com
+2019-08-29 15:42:57,364 - framework - INFO - http://www.baidu.com
+2019-08-29 15:43:24,189 - framework - INFO - http://www.baidu.com
+2019-08-29 15:43:24,191 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 15:45:23,237 - framework - INFO - http://www.baidu.com
+2019-08-29 15:45:23,239 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 15:47:31,633 - framework - INFO - http://www.baidu.com
+2019-08-29 15:48:42,836 - framework - INFO - http://www.baidu.com
+2019-08-29 15:48:58,083 - framework - INFO - http://www.baidu.com
+2019-08-29 15:49:18,699 - framework - INFO - http://www.baidu.com
+2019-08-29 15:49:18,701 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 15:49:37,874 - framework - INFO - http://www.baidu.com
+2019-08-29 15:49:37,876 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 15:49:37,877 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 15:49:40,747 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 15:51:50,152 - framework - INFO - http://www.baidu.com
+2019-08-29 15:51:50,154 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 15:51:50,155 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 15:51:52,700 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 15:54:35,653 - framework - INFO - http://www.baidu.com
+2019-08-29 15:54:35,655 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 15:54:35,656 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 15:54:38,102 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 15:57:14,745 - framework - INFO - http://www.baidu.com
+2019-08-29 15:57:14,747 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 15:57:14,748 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 15:57:17,384 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 16:00:09,116 - framework - INFO - http://www.baidu.com
+2019-08-29 16:00:09,118 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:00:09,118 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 16:00:16,553 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 16:11:04,122 - framework - INFO - http://www.baidu.com
+2019-08-29 16:11:04,124 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:11:29,322 - framework - INFO - http://www.baidu.com
+2019-08-29 16:11:29,324 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:12:03,275 - framework - INFO - http://www.baidu.com
+2019-08-29 16:12:03,278 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:13:09,766 - framework - INFO - http://www.baidu.com
+2019-08-29 16:13:09,768 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:13:09,769 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 16:13:12,259 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 16:13:25,872 - framework - INFO - http://www.baidu.com
+2019-08-29 16:13:25,875 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:13:34,835 - framework - INFO - http://www.baidu.com
+2019-08-29 16:13:34,838 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:14:47,445 - framework - INFO - http://www.baidu.com
+2019-08-29 16:14:59,807 - framework - INFO - http://www.baidu.com
+2019-08-29 16:14:59,809 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:16:35,269 - framework - INFO - http://www.baidu.com
+2019-08-29 16:16:35,271 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:16:58,776 - framework - INFO - http://www.baidu.com
+2019-08-29 16:16:58,779 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:17:40,903 - framework - INFO - http://www.baidu.com
+2019-08-29 16:17:40,905 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:17:49,789 - framework - INFO - http://www.baidu.com
+2019-08-29 16:17:49,791 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:19:07,980 - framework - INFO - http://www.baidu.com
+2019-08-29 16:19:07,982 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:22:33,503 - framework - INFO - http://www.baidu.com
+2019-08-29 16:22:33,506 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:26:45,269 - framework - INFO - http://www.baidu.com
+2019-08-29 16:26:45,271 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:26:59,678 - framework - INFO - http://www.baidu.com
+2019-08-29 16:26:59,681 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:26:59,681 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 16:27:03,153 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 16:28:44,364 - framework - INFO - http://www.baidu.com
+2019-08-29 16:28:44,366 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:29:07,194 - framework - INFO - http://www.baidu.com
+2019-08-29 16:29:07,196 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:29:07,197 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 16:29:10,344 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 16:29:54,649 - framework - INFO - http://www.baidu.com
+2019-08-29 16:29:54,651 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:29:54,652 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 16:29:57,394 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com;wuyanjun@91bihu.com;fanxuepeng@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 16:33:13,298 - framework - INFO - http://www.baidu.com
+2019-08-29 16:33:13,300 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:33:13,301 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 16:33:16,196 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 16:34:35,398 - framework - INFO - http://www.baidu.com
+2019-08-29 16:39:59,734 - framework - INFO - http://www.baidu.com
+2019-08-29 16:39:59,736 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 16:39:59,737 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 16:40:04,745 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 16:55:06,093 - framework - INFO - http://www.baidu.com
+2019-08-29 16:55:39,615 - framework - INFO - http://www.baidu.com
+2019-08-29 16:56:02,756 - framework - INFO - http://www.baidu.com
+2019-08-29 17:07:53,016 - framework - INFO - http://www.baidu.com
+2019-08-29 17:07:53,017 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 17:07:53,018 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 17:07:55,558 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 17:08:23,493 - framework - INFO - http://www.baidu.com
+2019-08-29 17:08:23,495 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 17:08:23,496 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 17:08:25,929 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 17:09:29,273 - framework - INFO - http://www.baidu.com
+2019-08-29 17:09:29,274 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 17:09:29,275 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 17:09:32,778 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 17:13:28,850 - framework - INFO - http://www.baidu.com
+2019-08-29 17:13:28,852 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 17:13:28,853 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 17:13:31,236 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 17:16:16,370 - framework - INFO - http://www.baidu.com
+2019-08-29 17:16:16,372 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 17:16:16,373 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 17:16:18,864 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 17:29:26,838 - framework - INFO - http://www.baidu.com
+2019-08-29 17:32:14,768 - framework - INFO - http://www.baidu.com
+2019-08-29 17:32:37,404 - framework - INFO - http://www.baidu.com
+2019-08-29 17:35:02,953 - framework - INFO - http://www.baidu.com
+2019-08-29 17:35:02,955 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 17:35:02,955 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 17:35:07,601 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 17:54:56,725 - framework - INFO - http://www.baidu.com
+2019-08-29 17:54:56,727 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 17:54:56,727 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 17:54:56,728 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 17:54:59,297 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-29 18:14:50,242 - framework - INFO - http://www.baidu.com
+2019-08-29 18:14:50,244 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-29 18:14:50,244 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 18:14:50,245 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-29 18:14:53,034 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2019-08-30 10:38:16,449 - framework - INFO - http://www.baidu.com
+2019-08-30 10:38:16,453 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\log\bug.log
+2019-08-30 10:38:16,453 - framework - INFO - attach file C:\Users\梁浩\PycharmProjects\Test_framework\report\report.html
+2019-08-30 10:38:19,749 - framework - INFO - 发送邮件"自动化测试报告"成功! 收件人：lianghao@91bihu.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确

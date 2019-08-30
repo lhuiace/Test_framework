@@ -1,0 +1,16 @@
+loginfo:
+    file_name: info.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+logbug:
+    file_name: bug.log
+    backup: 5
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+
+URL: http://www.baidu.com
+
